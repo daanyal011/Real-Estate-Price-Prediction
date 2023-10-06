@@ -67,7 +67,7 @@ The project directory structure is organized as follows:
 
 ## Contributors
 
-- Daanyal Parbulkar
+- [Daanyal Parbulkar](https://www.linkedin.com/in/daanyal-parbulkar-02a764228)
 
 ## License
 
